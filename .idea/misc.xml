@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/activity_main.xml" value="0.1234375" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/activity_main2.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/bottom.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/cantact.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/config.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/fragment_weixin.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/friend.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/item.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/86198/AndroidStudioProjects/mywork2/app/src/main/res/layout/top.xml" value="0.1234375" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/activity_main2.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/bottom.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/cantact.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/config.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/fragment_weixin.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/friend.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/item.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/layout/top.xml" value="0.1296875" />
+        <entry key="..\:/data/AndroidStudioProjects/mywork2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14583333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
